@@ -62,6 +62,6 @@ I enjoy creating software that makes a meaningful impact, whether in education, 
 ## Connect With Me
 
 - GitHub: https://github.com/chibwesamuel
-- LinkedIn: www.linkedin.com/in/samuel-mukosa-chibwe
+- LinkedIn: www.linkedin.com/in/chibwe-samuel-51b964186
 
 Thank you for visiting my profile!
